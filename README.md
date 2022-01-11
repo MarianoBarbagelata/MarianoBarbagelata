@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mariano Barbagelata</h1>
 <h3 align="center">A junior developer from Argentina</h3>
 
-- 🌱 I’m currently learning **React & Node.Js**
+- 🌱 I’m currently learning **Data Science with Python**
 
-- 🤝 I am looking for a job as a **junior developer or trainee**
+- 🤝 I am working as a **Web Scraper with Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MarianoBarbagelata](https://github.com/MarianoBarbagelata)
 
