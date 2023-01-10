@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MarianoBarbagelata](https://github.com/MarianoBarbagelata)
 
-- 📫 How to reach me **marianoabarba@gmail.com**
+- 📫 How to reach me **mabarbagelata@gmail.com**
 
 - 📄 My portfolio [https://marianobarbagelata.github.io/](https://marianobarbagelata.github.io/)
 
