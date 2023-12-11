@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariano Barbagelata</h1>
-<h3 align="center">A junior developer from Argentina</h3>
+<h3 align="center">A semi senior developer from Argentina</h3>
 
 - 🌱 I’m currently learning **Data Science with Python**
 
